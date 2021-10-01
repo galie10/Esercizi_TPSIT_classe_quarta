@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1631615080 source:c:\users\galie\documents\3a\tpsit\esinc_lab\es1_ordinamento\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
