@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1634290620 source:c:\users\galie\documents\4a\tpsit\esinc_lab\es1_stringapalindroma\main.c
+	<stdio.h>
+	<stdlib.h>
+	<stdbool.h>
+
