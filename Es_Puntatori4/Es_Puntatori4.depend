@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1635508728 source:c:\users\galie\documents\4a\tpsit\esinc_lab\es_puntatori4\main.c
+	<stdio.h>
+	<string.h>
+	<stdlib.h>
+
